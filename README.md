@@ -1,2 +1,2 @@
 # linear_calculator
-A python project.
+A basic python project.
